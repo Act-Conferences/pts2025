@@ -49,7 +49,12 @@
     <a href="https://www.fastmail.com/">
         <img class="icon" src="[% make_uri('pix/logo-fastmail.png') %]" width="250" alt="Fastmail" title="Fastmail">
     </a><br />
-</div>
+
+    <div class="col-xs-10 col-xs-offset-1 text-center;">
+        <a href="https://opencagedata.com">
+            <img class="icon" src="[% make_uri('pix/logo_opencage.png') %]" width="250" alt="opencage" title="opencage">
+        </a><br />
+    </div>
     
 
 <!--
