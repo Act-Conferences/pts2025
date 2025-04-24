@@ -4,6 +4,25 @@
         <p><small><a href="[% make_uri_info('sponsors.html') %]">Read more about PTS2025 sponsors</a></small></p>
     </div>
 
+<!-- Diamond -->
+<div class="col-xs-12" style="margin-bottom: 1em;"><strong>Diamond:</strong></div>
+    <div class="col-xs-12 col-xs-offset-1 text-center;">
+        <a href="https://www.booking.com/">
+            <img src="[% make_uri_info('images/logos/scaled/booking.png') %]" border="0" alt="Booking.com" class="img-responsive" style="margin-bottom: 3em;">
+        </a>
+    </div>
+
+<!-- Platinum -->
+<!--
+<div class="col-xs-12" style="margin-bottom: 1em;"><strong>Platinum:</strong></div>
+
+    <div class="col-xs-12 col-xs-offset-1 text-center;">
+        <a href="https://tech.deriv.com/">
+            <img src="[% make_uri_info('images/logos/scaled/deriv.png') %]" border="0" alt="deriv" class="img-responsive" style="margin-bottom: 3em;">
+        </a>
+    </div>
+
+-->
 
 <!-- Gold -->
 <!--
