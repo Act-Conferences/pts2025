@@ -5,16 +5,24 @@
     </div>
 
 
+<div class="col-xs-12" style="margin-bottom: 1em;"><strong>Diamond:</strong></div>
+
+<div class="col-xs-12 text-center">
+    <a href="https://www.booking.com/">
+        <img src="[% make_uri_info('pix/logo_bookingcom_225.png') %]" border="0" alt="Booking.com" class="img-responsive" style="margin-bottom: 3em;">
+    </a>
+</div>
+
 <!-- Gold -->
-<!--
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Gold:</strong></div>
 
     <div class="col-xs-12 text-center">
-        <a href="http://eligo.co.uk/">
-            <img src="[% make_uri_info('images/logos/scaled/eligo.png') %]" border="0" alt="Eligo" class="img-responsive" style="margin-bottom: 3em;">
+        <a href="https://www.webpros.com/">
+            <img src="[% make_uri_info('pix/logo-webpros-dark.svg') %]" border="0" alt="Webpros" class="img-responsive" style="margin-bottom: 3em;">
         </a>
     </div>
 
+<!--
     <div class="col-xs-10 col-xs-offset-1 text-center;">
         <a href="https://perl.careers/jobs/">
             <img src="[% make_uri_info('images/logos/scaled/perlcareers.png') %]" border="0" alt="Perl Jobs by Perl Careers" class="img-responsive" style="margin-bottom: 2em;">
@@ -78,13 +86,6 @@
     </div>
 -->
 
-<!--
-    <ul>
-        <li><a href="https://oleeo.com/">Oleeo</a></li>
-        <li><a href="http://opusvl.com/">OpusVL</a></li>
-        <li><a href="http://www.booking.com/">Booking.com</a></li>
-    </ul>
--->
 </div>
 
 <!-- Others -->
